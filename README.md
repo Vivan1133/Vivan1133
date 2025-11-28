@@ -1,53 +1,69 @@
 <h1 align="center">Hi 👋, I'm Vivan</h1>
-<h3 align="center">Final-year Computer Science Engineer | Backend Developer | Golang & Node.js Enthusiast</h3>
+<h3 align="center">Final Year Computer Science Student | Aspiring Backend & Cloud/DevOps Engineer</h3>
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently building: **Airbnb Clone Backend**  
-- 🌱 Learning: **Golang • System Design • Distributed Systems**  
-- 💬 Ask me about: **Go, Node.js, APIs, Authentication, SQL**  
-- ⚡ Fun fact: I break things until they work 😄  
+## 🚀 About Me  
+- 🎓 Final year **Computer Science Engineering** student  
+- 🔧 Passionate about **backend engineering**, **distributed systems**, and **cloud technologies**  
+- ☁️ Actively learning **AWS**, microservices, DevOps pipelines, and scalable architectures  
+- 💡 Love building APIs, automating things, and exploring performance-optimized backend solutions  
+- 📫 Reach me at: **vivan2003.vk@gmail.com**  
+- 🔗 LinkedIn: [Vivan Kumar](https://www.linkedin.com/in/vivan-kumar-192261239/)
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,js,ts,python,cpp" />
+### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,java" />
 </p>
 
-#### **Backend & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=express,docker,postgres,mysql,mongodb,redis,git,github,postman" />
+### **Frameworks / Runtimes**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-#### **Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,linux" />
+### **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
+
+### **Caching / Message Queues**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redis" />
+</p>
+
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode" />
+</p>
+
+### **Testing**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
+
+### **Other Skills**
+- REST APIs  
+- gRPC  
+- JWT Authentication  
+- CI/CD  
+- Backend system design fundamentals  
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160" />
-</p>
+## 😄 Fun Fact  
+I love making backend systems so smooth and optimized that people forget they even exist — which is exactly how good backend engineering should feel.
 
 ---
 
-### 🏆 Achievements  
-- ⭐ Built multiple backend projects  
-- 💡 Strong understanding of **authentication, JWT, sessions, tokens**  
-- 🏗️ Experience with **APIs, microservices, system design basics**
+## ⭐ Future Goals  
+- Contribute to open-source backend projects  
+- Build real microservices with Go + gRPC  
+- Deploy production-ready systems on AWS  
 
 ---
 
-### 🌐 Connect with me  
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
-
+Thanks for visiting my profile! 😊  
