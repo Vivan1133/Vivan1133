@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivan</h1>
 <h3 align="center">Final Year Computer Science Student | Aspiring Backend Engineer</h3>
+<h3 align="center"> 🔗 [Resume](https://drive.google.com/file/d/17wbNbHnXWbu3e0iDyy6lRqNwVswJ5bH_/view?usp=drive_link)</h3>
 
 ---
 
