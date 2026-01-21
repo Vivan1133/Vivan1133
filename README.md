@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vivan</h1>
-<h3 align="center">Final Year Computer Science Student | Aspiring Backend & Cloud/DevOps Engineer</h3>
+<h3 align="center">Final Year Computer Science Student | Aspiring Backend Engineer</h3>
 
 ---
 
 ## 🚀 About Me  
 - 🎓 Final year **Computer Science Engineering** student  
-- 🔧 Passionate about **backend engineering**, **distributed systems**, and **cloud technologies**  
-- ☁️ Actively learning **AWS**, microservices, DevOps pipelines, and scalable architectures  
-- 💡 Love building APIs, automating things, and exploring performance-optimized backend solutions  
+- 🔧 Interested in **backend engineering**, **distributed systems**, and **scalable APIs**  
+- 💡 Enjoy building APIs, working with databases, and optimizing backend performance  
 - 📫 Reach me at: **vivan2003.vk@gmail.com**  
 - 🔗 LinkedIn: [Vivan Kumar](https://www.linkedin.com/in/vivan-kumar-192261239/)
 
@@ -16,54 +15,29 @@
 ## 🛠️ Tech Stack
 
 ### **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,java" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,go,java&theme=light" height="32"/>
 </p>
 
 ### **Frameworks / Runtimes**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" height="32"/>
 </p>
 
 ### **Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" height="32"/>
 </p>
 
 ### **Caching / Message Queues**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=redis" />
+<p>
+  <img src="https://skillicons.dev/icons?i=redis&theme=light" height="32"/>
 </p>
 
-### **Tools & Platforms**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode" />
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light" height="32"/>
 </p>
 
-### **Testing**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jest" />
-</p>
-
-### **Other Skills**
-- REST APIs  
-- gRPC  
-- JWT Authentication  
-- CI/CD  
-- Backend system design fundamentals  
-
 ---
-
-## 😄 Fun Fact  
-I love making backend systems so smooth and optimized that people forget they even exist — which is exactly how good backend engineering should feel.
-
----
-
-## ⭐ Future Goals  
-- Contribute to open-source backend projects  
-- Build real microservices with Go + gRPC  
-- Deploy production-ready systems on AWS  
-
----
-
-Thanks for visiting my profile! 😊  
+Thanks for visiting my profile! 😊
